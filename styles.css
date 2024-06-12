@@ -1,0 +1,71 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: hsl(0, 0%, 8%);
+    font-family: "Inter", sans-serif;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:  hsl(0, 0%, 12%);
+    padding: 30px 50px;
+    border-radius: 20px;
+}
+
+p {
+    font-weight: 400;
+}
+
+img {
+    width: 90px;
+    border-radius: 50%;
+}
+
+h1, p {
+    color: hsl(0, 0%, 100%)
+}
+
+span {
+    font-weight: 600;
+    color: hsl(75, 94%, 57%);
+    margin-bottom: 10px;
+}
+
+button, h1 {
+    font-weight: 700;
+}
+
+h1, span, p {
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 10px;
+}
+
+.button-container {
+    display: flex;
+    flex-direction: column;
+}
+
+button {
+    width: 20rem;
+    height: 2.5rem;
+    margin-bottom: 10px;
+    color: hsl(0, 0%, 100%);
+    background-color: hsl(0, 0%, 20%);
+    border-radius: 10px;
+    border: 0;
+}
+
+button:hover, button:active {
+    background-color: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 20%);
+    cursor: pointer;
+}
