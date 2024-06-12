@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/Sazid99246/frontend-mentor-social-link-profile)
-- Live Site URL: [Add live site URL here](https://66697eee30a3df068402f377--charming-muffin-3c0894.netlify.app/)
+- Live Site URL: [Add live site URL here](https://charming-muffin-3c0894.netlify.app/)
 
 ## My process
 
