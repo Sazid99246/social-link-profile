@@ -64,6 +64,10 @@ button {
     border: 0;
 }
 
+button:last-of-type {
+    margin-bottom: 0;
+}
+
 button:hover, button:active {
     background-color: hsl(75, 94%, 57%);
     color: hsl(0, 0%, 20%);
