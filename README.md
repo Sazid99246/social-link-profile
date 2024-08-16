@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/Sazid99246/frontend-mentor-social-link-profile)
-- Live Site URL: [Add live site URL here](https://charming-muffin-3c0894.netlify.app/)
+- Solution URL: [Source Code](https://github.com/Sazid99246/social-link-profile)
+- Live Site URL: [Social Link Profile](https://sazid99246.github.io/social-link-profile/)
 
 ## My process
 
